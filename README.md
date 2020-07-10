@@ -1,8 +1,8 @@
 <img width="480px" style="display:inline" src="https://user-images.githubusercontent.com/29801123/87164044-35041680-c303-11ea-8a21-f17c1bea2976.gif" />
 
-Currently working as a frontend engineer. <br/>
-My personal work Focuses primarily on Data visualization. <br/>
-I Also do graphic design. <br/>
+Currently working as a Frontend Engineer. <br/>
+My personal work focuses primarily on Data Visualization. <br/>
+I Also do Graphic Design. <br/>
 I’m looking for Anyting Interesting. <br/>
 
 #### How to reach me : dofl5576@gmail.com
