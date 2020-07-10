@@ -1,4 +1,12 @@
-### Hi there 👋
+<img width="480px" style="display:inline" src="https://user-images.githubusercontent.com/29801123/87164044-35041680-c303-11ea-8a21-f17c1bea2976.gif" />
+
+Currently working as a frontend engineer. <br/>
+My personal work Focuses primarily on Data visualization. <br/>
+I Also do graphic design. <br/>
+I’m looking for Anyting Interesting. <br/>
+
+#### How to reach me : dofl5576@gmail.com
+
 
 <!--
 **aereeeee/aereeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
