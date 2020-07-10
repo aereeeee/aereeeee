@@ -2,7 +2,7 @@
 
 Currently working as a Frontend Engineer. <br/>
 My personal work focuses primarily on Data Visualization. <br/>
-I Also do Graphic Design. <br/>
+I also do Graphic Design. <br/>
 I’m looking for Anyting Interesting. <br/>
 
 #### How to reach me : dofl5576@gmail.com
